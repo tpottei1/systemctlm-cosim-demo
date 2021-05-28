@@ -14,7 +14,7 @@ From the root directory, one level above this directory, run the following comma
 LD_LIBRARY_PATH=/usr/local/systemc-2.3.2/lib-linux64/ ./zynq_demo
 ```
 
-##
+## Run Python Program
 From this directory, run the following command:
 ```
 python client.py
